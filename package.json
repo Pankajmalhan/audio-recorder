@@ -10,8 +10,11 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "buffer": "^5.4.3",
     "react": "16.9.0",
-    "react-native": "0.61.2"
+    "react-native": "0.61.2",
+    "react-native-audio": "^4.3.0",
+    "react-native-fs": "^2.14.1"
   },
   "devDependencies": {
     "@babel/core": "^7.6.4",
